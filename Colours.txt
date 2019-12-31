@@ -1,0 +1,3 @@
+111000001000011100111010 - 24 bits light brown (for mario) 
+101110010111101001010111 - 24 bits dark brown (for mario)
+111011010001110000100100 - 24 bits red (for mario) 

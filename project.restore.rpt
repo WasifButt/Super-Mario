@@ -1,0 +1,131 @@
+Restore Archived Project report for project
+Sat Nov 30 17:25:56 2019
+Quartus Prime Version 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Sat Nov 30 17:25:56 2019 ;
+; Revision Name                   ; project                               ;
+; Top-level Entity Name           ; project                               ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/hjbro/OneDrive/Desktop/project.qar' into the 'C:/Users/hjbro/OneDrive/Desktop/project_restored/' directory
+Info: Generated report 'project.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/18.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4841 megabytes
+    Info: Processing ended: Sat Nov 30 17:25:56 2019
+    Info: Elapsed time: 00:00:08
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++----------------------------------------------------+
+; Files Restored                                     ;
++----------------------------------------------------+
+; File Name                                          ;
++----------------------------------------------------+
+; qar_info.json                                      ;
+; Altera_UP_PS2_Command_Out.v                        ;
+; Altera_UP_PS2_Data_In.v                            ;
+; Audio_Controller/Altera_UP_Audio_Bit_Counter.v     ;
+; Audio_Controller/Altera_UP_Audio_In_Deserializer.v ;
+; Audio_Controller/Altera_UP_Audio_Out_Serializer.v  ;
+; Audio_Controller/Altera_UP_Clock_Edge.v            ;
+; Audio_Controller/Altera_UP_SYNC_FIFO.v             ;
+; Audio_Controller/Audio_Clock.v                     ;
+; Audio_Controller/Audio_Controller.v                ;
+; PS2_Controller.v                                   ;
+; avconf/I2C_Controller.v                            ;
+; avconf/avconf.v                                    ;
+; black.mif                                          ;
+; coin.qip                                           ;
+; coin.v                                             ;
+; control_FSM.v                                      ;
+; datapath.v                                         ;
+; drawStuff.v                                        ;
+; end_screen.mif                                     ;
+; end_screen.qip                                     ;
+; end_screen.v                                       ;
+; jump.qip                                           ;
+; jump.v                                             ;
+; jumpLeft.qip                                       ;
+; jumpLeft.v                                         ;
+; jump_bb.v                                          ;
+; mario.mif                                          ;
+; mario.qip                                          ;
+; mario.v                                            ;
+; marioLeft.qip                                      ;
+; marioLeft.v                                        ;
+; mario_flipped.mif                                  ;
+; mario_run.mif                                      ;
+; mario_run_flipped.mif                              ;
+; newthing.mif                                       ;
+; overallFSM.v                                       ;
+; project.qpf                                        ;
+; project.qsf                                        ;
+; project.v                                          ;
+; rateDivider.v                                      ;
+; resgisters.v                                       ;
+; sound.v                                            ;
+; stage1_bkg.mif                                     ;
+; stage1_bkg.qip                                     ;
+; stage1_bkg.v                                       ;
+; stage2_bkg.mif                                     ;
+; stage2_bkg.qip                                     ;
+; stage2_bkg.v                                       ;
+; start_screen.mif                                   ;
+; start_screen.qip                                   ;
+; start_screen.v                                     ;
+; timer.v                                            ;
+; vga_adapter.v                                      ;
+; vga_address_translator.v                           ;
+; vga_controller.v                                   ;
+; vga_pll.v                                          ;
+; assignment_defaults.qdf                            ;
++----------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
